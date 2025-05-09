@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mi-maleta/static/css/main.a8beed49.css",
+    "main.js": "/mi-maleta/static/js/main.0a99560a.js",
+    "index.html": "/mi-maleta/index.html",
+    "main.a8beed49.css.map": "/mi-maleta/static/css/main.a8beed49.css.map",
+    "main.0a99560a.js.map": "/mi-maleta/static/js/main.0a99560a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8beed49.css",
+    "static/js/main.0a99560a.js"
+  ]
+}
