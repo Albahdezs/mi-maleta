@@ -2,6 +2,8 @@
 
 **Mi Maleta** es una aplicación web interactiva que te ayuda a preparar y organizar tu equipaje antes de un viaje. Puedes añadir artículos, marcar los que ya empacaste, ordenar la lista y eliminar elementos con facilidad. ¡Ideal para evitar olvidos!
 
+[Mi maleta](https://albahdezs.github.io/mi-maleta/)
+
 ## 🚀 Características
 
 - ✅ Añadir artículos a empacar con cantidad.
